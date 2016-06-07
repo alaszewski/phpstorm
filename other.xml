@@ -1,0 +1,236 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Blade files</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="EXT_CONFIGURATION">
+      <value>
+        <option name="CVS_RSH" value="ssh" />
+        <option name="PRIVATE_KEY_FILE" value="" />
+        <option name="ADDITIONAL_PARAMETERS" value="" />
+        <option name="USE_INTERNAL_SSH_IMPLEMENTATION" value="false" />
+      </value>
+    </option>
+    <option name="SSH_CONFIGURATION">
+      <value SSH_TYPE="SSH1, SSH2">
+        <option name="USE_PPK" value="false" />
+        <option name="PATH_TO_PPK" value="" />
+      </value>
+    </option>
+    <option name="LOCAL_CONFIGURATION">
+      <value>
+        <option name="PATH_TO_CVS_CLIENT" value="cvs" />
+      </value>
+    </option>
+    <option name="PROXY_SETTINGS">
+      <value>
+        <option name="USE_PROXY" value="false" />
+        <option name="PROXY_HOST" value="" />
+        <option name="PROXY_PORT" value="8080" />
+        <option name="TYPE" value="0" />
+        <option name="LOGIN" value="" />
+        <option name="PASSWORD" value="" />
+      </value>
+    </option>
+    <option name="SSH_FOR_EXT_CONFIGURATION">
+      <value SSH_TYPE="SSH1, SSH2">
+        <option name="USE_PPK" value="false" />
+        <option name="PATH_TO_PPK" value="" />
+      </value>
+    </option>
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+    <option name="TIMEOUT" value="10" />
+    <option name="MAKE_CHECKED_OUT_FILES_READONLY" value="false" />
+    <option name="CHECKOUT_PRUNE_EMPTY_DIRECTORIES" value="true" />
+    <option name="CHECKOUT_KEYWORD_SUBSTITUTION" />
+    <option name="SHOW_RESTORE_DIRECTORIES_CONFIRMATION" value="true" />
+    <option name="ENCODING" value="Default" />
+    <option name="USE_GZIP" value="false" />
+    <option name="DO_OUTPUT" value="false" />
+    <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
+    <option name="SHOW_PATH" value="true" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="$USER_HOME$/.nvm/v0.10.41/bin/node" />
+  </component>
+  <component name="PhpRefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="true" />
+    <option name="RENAME_SEARCH_NON_CODE_FOR_CLASS" value="true" />
+  </component>
+  <component name="RecentTaskRepositories">
+    <GitHub shared="false" url="https://github.com">
+      <option name="assignedIssuesOnly" value="false" />
+      <commitMessageFormat>#{number} {summary}</commitMessageFormat>
+      <password />
+      <token>dfcbdf92df92dfc8dfcbdf9bdf99df9ddf9fdfc8df93df9edfcedf98dfc8df9cdf93df9adf99df9fdf98df9fdfc8df9cdf9ddfc8dfc8df93dfcbdf9edfcfdf9edf9cdf93dfccdf9ddf93dfcbdf9adf92</token>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="repoAuthor" value="shwrm" />
+      <option name="repoName" value="parisapi" />
+      <option name="shouldFormatCommitMessage" value="true" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <option name="user" value="" />
+      <username />
+    </GitHub>
+    <Generic shared="false" url="https://api3.codebasehq.com">
+      <commitMessageFormat>{summary}
+[ticket: {id}]</commitMessageFormat>
+      <option name="downloadTasksInSeparateRequests" value="false" />
+      <password>df9fdfc8dfcbdfcedf98df9cdf9cdf92df9adf9fdfcedf9fdf9adf9adf93df9edf99dfcbdfc8dfc8dfc8df93df9bdfcfdf9adf99dfcbdfccdf93df9adf9fdf9fdf93df9bdfcedfc8df93df98df9adf9a</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="loginMethodType" value="GET" />
+      <option name="loginUrl" value="" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="responseHandlers">
+        <XPathResponseHandler>
+          <selectors>
+            <selector name="tasks" path="/tickets/ticket" />
+            <selector name="id" path="ticket-id" />
+            <selector name="summary" path="summary" />
+            <selector name="description" path="" />
+            <selector name="updated" path="" />
+            <selector name="created" path="" />
+            <selector name="closed" path="" />
+            <selector name="issueUrl" path="" />
+            <selector name="singleTask-id" path="" />
+            <selector name="singleTask-summary" path="" />
+            <selector name="singleTask-description" path="" />
+            <selector name="singleTask-updated" path="" />
+            <selector name="singleTask-created" path="" />
+            <selector name="singleTask-closed" path="" />
+            <selector name="singleTask-issueUrl" path="" />
+          </selectors>
+        </XPathResponseHandler>
+        <JsonResponseHandler>
+          <selectors>
+            <selector name="tasks" path="" />
+            <selector name="id" path="" />
+            <selector name="summary" path="" />
+            <selector name="description" path="" />
+            <selector name="updated" path="" />
+            <selector name="created" path="" />
+            <selector name="closed" path="" />
+            <selector name="issueUrl" path="" />
+            <selector name="singleTask-id" path="" />
+            <selector name="singleTask-summary" path="" />
+            <selector name="singleTask-description" path="" />
+            <selector name="singleTask-updated" path="" />
+            <selector name="singleTask-created" path="" />
+            <selector name="singleTask-closed" path="" />
+            <selector name="singleTask-issueUrl" path="" />
+          </selectors>
+        </JsonResponseHandler>
+        <RegExResponseHandler>
+          <option name="taskRegex" value="" />
+        </RegExResponseHandler>
+      </option>
+      <option name="responseType" value="XML" />
+      <option name="shouldFormatCommitMessage" value="true" />
+      <option name="singleTaskMethodType" value="GET" />
+      <option name="singleTaskUrl" value="/{project}/ticket/{id}" />
+      <option name="subtypeName" />
+      <option name="tasksListMethodType" value="GET" />
+      <option name="tasksListUrl" value="/{project}/tickets" />
+      <option name="templateVariables">
+        <list>
+          <TemplateVariable hidden="false" readOnly="false" shownOnFirstTab="true">
+            <option name="description" value="" />
+            <option name="name" value="project" />
+            <option name="value" value="paris" />
+          </TemplateVariable>
+        </list>
+      </option>
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>showroom/arek-laszewski-10</username>
+    </Generic>
+    <Generic shared="false" url="http://api3.codebasehq.com">
+      <commitMessageFormat>[touch: {id}] {summary}</commitMessageFormat>
+      <option name="downloadTasksInSeparateRequests" value="false" />
+      <password>df9fdfc8dfcbdfcedf98df9cdf9cdf92df9adf9fdfcedf9fdf9adf9adf93df9edf99dfcbdfc8dfc8dfc8df93df9bdfcfdf9adf99dfcbdfccdf93df9adf9fdf9fdf93df9bdfcedfc8df93df98df9adf9a</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="loginMethodType" value="GET" />
+      <option name="loginUrl" value="" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="responseHandlers">
+        <XPathResponseHandler>
+          <selectors>
+            <selector name="tasks" path="/tickets/ticket" />
+            <selector name="id" path="ticket-id" />
+            <selector name="summary" path="summary" />
+            <selector name="description" path="" />
+            <selector name="updated" path="" />
+            <selector name="created" path="" />
+            <selector name="closed" path="" />
+            <selector name="issueUrl" path="" />
+            <selector name="singleTask-id" path="" />
+            <selector name="singleTask-summary" path="" />
+            <selector name="singleTask-description" path="" />
+            <selector name="singleTask-updated" path="" />
+            <selector name="singleTask-created" path="" />
+            <selector name="singleTask-closed" path="" />
+            <selector name="singleTask-issueUrl" path="" />
+          </selectors>
+        </XPathResponseHandler>
+        <JsonResponseHandler>
+          <selectors>
+            <selector name="tasks" path="" />
+            <selector name="id" path="" />
+            <selector name="summary" path="" />
+            <selector name="description" path="" />
+            <selector name="updated" path="" />
+            <selector name="created" path="" />
+            <selector name="closed" path="" />
+            <selector name="issueUrl" path="" />
+            <selector name="singleTask-id" path="" />
+            <selector name="singleTask-summary" path="" />
+            <selector name="singleTask-description" path="" />
+            <selector name="singleTask-updated" path="" />
+            <selector name="singleTask-created" path="" />
+            <selector name="singleTask-closed" path="" />
+            <selector name="singleTask-issueUrl" path="" />
+          </selectors>
+        </JsonResponseHandler>
+        <RegExResponseHandler>
+          <option name="taskRegex" value="" />
+        </RegExResponseHandler>
+      </option>
+      <option name="responseType" value="XML" />
+      <option name="shouldFormatCommitMessage" value="true" />
+      <option name="singleTaskMethodType" value="GET" />
+      <option name="singleTaskUrl" value="{serverUrl}/{project}/tickets/{id}" />
+      <option name="subtypeName" />
+      <option name="tasksListMethodType" value="GET" />
+      <option name="tasksListUrl" value="{serverUrl}/{project}/tickets?query=assignee:me+resolution:open" />
+      <option name="templateVariables">
+        <list>
+          <TemplateVariable hidden="false" readOnly="false" shownOnFirstTab="true">
+            <option name="description" value="" />
+            <option name="name" value="project" />
+            <option name="value" value="paris" />
+          </TemplateVariable>
+        </list>
+      </option>
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>showroom/arek-laszewski-10</username>
+    </Generic>
+  </component>
+</application>
