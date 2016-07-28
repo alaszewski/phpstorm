@@ -1,7 +1,10 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="de482f34-4d34-42f2-915f-b8574335cc4e" name="api" url="http://api.paris.wl">
+      <webServer id="ad8c1c0e-5e3d-4fa1-b4b4-0aa0612eabe7" name="proxy" url="http://pl.showroom.wl">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="a8090380-ba5f-4639-96c3-98168547f3e4" name="api" url="http://api.paris.wl">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
     </option>
