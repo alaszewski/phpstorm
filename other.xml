@@ -69,6 +69,7 @@
   <component name="PhpRefactoringSettings">
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="true" />
     <option name="RENAME_SEARCH_NON_CODE_FOR_CLASS" value="true" />
+    <option name="IMPORT_CLASS_ALWAYS_CREATE_ALIAS" value="true" />
   </component>
   <component name="RecentTaskRepositories">
     <GitHub shared="false" url="https://github.com">
