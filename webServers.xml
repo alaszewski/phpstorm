@@ -10,6 +10,9 @@
       <webServer id="ce480bee-6a4f-4a86-8bca-867534cbe5fd" name="admin" url="http://admin.paris.wl/">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="cb675ca8-d740-4ff8-9222-8be1d36d8dec" name="inventory" url="http://inventory.localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
