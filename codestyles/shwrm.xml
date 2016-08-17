@@ -4,6 +4,17 @@
     <option name="PHPDOC_BLANK_LINE_BEFORE_TAGS" value="true" />
     <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
   </PHPCodeStyleSettings>
+  <SqlCodeStyleSettings>
+    <option name="ALIGN_AS_IN_SELECT_STATEMENT" value="false" />
+    <option name="ALIGN_TYPE_IN_CREATE_STATEMENT" value="false" />
+    <option name="ALIGN_TYPE_IN_BLOCK_STATEMENT" value="false" />
+    <option name="ALIGN_TYPE_IN_ARGUMENT_DEFINITION" value="false" />
+    <option name="ALIGN_INSIDE_BINARY_EXPRESSION" value="false" />
+    <option name="ALIGN_INSIDE_QUERY_EXPRESSION" value="false" />
+    <option name="ALIGN_EQ_INSIDE_SET_CLAUSE" value="false" />
+    <option name="INDENT_JOIN" value="false" />
+    <option name="INDENT_JOIN_CONDITION" value="false" />
+  </SqlCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
