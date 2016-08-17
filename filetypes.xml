@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="asd" type="PLAIN_TEXT" />
       <mapping ext="nfo" type="PLAIN_TEXT" />
+      <mapping pattern="product-translations" type="SQL" />
     </extensionMap>
   </component>
 </application>
