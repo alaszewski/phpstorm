@@ -13,6 +13,9 @@
       <webServer id="cb675ca8-d740-4ff8-9222-8be1d36d8dec" name="inventory" url="http://inventory.localhost">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="73269833-039d-4595-a7e4-8bd212a14bb2" name="iosproxy" url="http://iosproxy.localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
