@@ -16,6 +16,9 @@
       <webServer id="73269833-039d-4595-a7e4-8bd212a14bb2" name="iosproxy" url="http://iosproxy.localhost">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="7a75642a-25aa-4938-8f62-2ec654ffccdb" name="void" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
