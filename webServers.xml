@@ -1,9 +1,6 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="ad8c1c0e-5e3d-4fa1-b4b4-0aa0612eabe7" name="proxy" url="http://pl.showroom.wl">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
       <webServer id="ce480bee-6a4f-4a86-8bca-867534cbe5fd" name="admin" url="http://admin.paris.wl/">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
