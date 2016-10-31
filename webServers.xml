@@ -1,6 +1,9 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="a6cd3e2e-5612-4664-84ea-92dd96ba57ea" name="pariapi" url="http://api.paris.wl">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
       <webServer id="ad8c1c0e-5e3d-4fa1-b4b4-0aa0612eabe7" name="proxy" url="http://pl.showroom.wl">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
