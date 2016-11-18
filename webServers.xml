@@ -19,6 +19,9 @@
       <webServer id="7a75642a-25aa-4938-8f62-2ec654ffccdb" name="void" url="http://localhost">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="5b0b28b9-3af7-4193-8d0e-06deb8a70121" name="api.localhost" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
