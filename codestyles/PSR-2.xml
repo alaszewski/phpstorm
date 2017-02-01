@@ -10,6 +10,24 @@
     <option name="BLANK_LINE_BEFORE_RETURN_STATEMENT" value="true" />
     <option name="BLANK_LINES_AROUND_CONSTANTS" value="1" />
   </PHPCodeStyleSettings>
+  <SqlCodeStyleSettings>
+    <option name="NEW_LINE_BEFORE_JOIN_CONDITION" value="true" />
+    <option name="NEW_LINE_BEFORE_QUERY_INSIDE_PARENTHESIS" value="true" />
+    <option name="NEW_LINE_BEFORE_QUERY_INSIDE_DML" value="true" />
+    <option name="NEW_LINE_AROUND_SEMICOLON" value="true" />
+    <option name="WRAP_INSIDE_SELECT" value="5" />
+    <option name="WRAP_INSIDE_JOIN_EXPRESSION" value="5" />
+    <option name="WRAP_INSIDE_GROUP_BY" value="5" />
+    <option name="WRAP_INSIDE_WHERE" value="5" />
+    <option name="WRAP_INSIDE_ORDER_BY" value="5" />
+    <option name="WRAP_INSIDE_SET" value="5" />
+    <option name="WRAP_INSIDE_BINARY_EXPRESSION" value="5" />
+    <option name="WRAP_INSIDE_ARGUMENT_DEFINITION" value="5" />
+    <option name="WRAP_INSIDE_CALL_EXPRESSION" value="5" />
+    <option name="WRAP_INSIDE_VALUES_EXPRESSION" value="5" />
+    <option name="WRAP_VALUES_EXPRESSION" value="5" />
+    <option name="WRAP_PARENTHESIZED_EXPRESSION_INSIDE_VALUES" value="5" />
+  </SqlCodeStyleSettings>
   <codeStyleSettings language="PHP">
     <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="1" />
