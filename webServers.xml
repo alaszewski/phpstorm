@@ -1,7 +1,16 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="cab6cffa-3714-49b0-964b-f12cb7cd749f" name="web" url="http://pl.web.localhost">
+      <webServer id="cab6cffa-3714-49b0-964b-f12cb7cd749f" name="pl" url="http://pl.parisproxy.localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="96b39168-f38e-4bf8-9910-8f709c7b7566" name="de" url="http://de.parisproxy.localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="c53102cd-b1df-47d3-8949-35a3f73fbc4c" name="kids" url="http://kids.parisproxy.localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="f082414a-b139-49d5-a498-8ec2a895a3b4" name="com" url="http://com.parisproxy.localhost">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
     </option>
