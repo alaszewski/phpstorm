@@ -3,6 +3,9 @@
     <option name="OBJECT_WRAPPING" value="0" />
     <option name="ARRAY_WRAPPING" value="0" />
   </JSON>
+  <PHPCodeStyleSettings>
+    <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
+  </PHPCodeStyleSettings>
   <SqlCodeStyleSettings>
     <option name="INDENT_JOIN_CONDITION" value="false" />
     <option name="WRAP_INSIDE_CREATE_TABLE" value="0" />
